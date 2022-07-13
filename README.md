@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atwa358
 - 👀 I’m interested in consistently learning, creating, and growing among a healthy community.
 - 🌱 I’m currently learning JavaScript, Node.js, Front-end, Back-end, and Full-Stack development
-- 💞️ I’m looking to collaborate on projects that involve bots, building UIs, and making APIs
+- 💞️ I’m looking to collaborate on projects that involve APIs, automation, building UIs
 - 📫 How to reach me: atwa358@gmail.com
 
 <!---
